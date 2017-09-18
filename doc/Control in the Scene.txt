@@ -1,0 +1,16 @@
+
+
+    - Settting.
+    Press 'B' to go back to main menu.
+    
+    - Debug Setting (Only in Debug mode)
+    Press 'l' to toggle the camera.
+    Press 'r' to set the player back to 0, 0 position.
+    Press 'o' to toggle control player.
+    
+    - Control
+    Press 'space' to jump.
+    Press 'right arrow' to go right
+    Press 'left arrow' to go left
+    
+    P.S. There is still the issue with the audio engine...
