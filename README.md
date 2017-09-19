@@ -10,5 +10,5 @@ dated documenetation on other website. is a small library and simple wrapper, i
 do not think ppl will spent that much of time reading the source code.
 
 ### Example ###
-* Example file can be download at 'example' direction from the root
+* Example file can be download at 'example' directory from the root
  of the project.
