@@ -20,3 +20,6 @@ do not think ppl will spent that much of time reading the source code.
 ### Example Source ###
 * Example file can be download at 'example' directory from the root
  of the project.
+
+### Video ###
+* https://www.youtube.com/watch?v=QU0-fHzk1Uc
