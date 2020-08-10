@@ -31,3 +31,7 @@ of the project.
 ## Video
 
 * https://www.youtube.com/watch?v=SMMtxSFFqgo&feature=youtu.be
+
+## Todo List
+
+- [ ] There is still issue with the audio engine.
